@@ -1741,7 +1741,23 @@ pre code {
 .table-hover .table-warning:hover {
   background-color: #ffe8a1;
 }
-
+.image_3 {
+  height: 600px;
+  left: 600px;
+  }
+.image_2 {
+height: 500px;
+left: 300px;
+}
+.image_1 {
+  height: 400px;
+  left: 400px;
+}
+.menu {
+  width: 140px;
+  padding: 4px;
+  border: 6px orange solid;
+}
 .table-hover .table-warning:hover > td,
 .table-hover .table-warning:hover > th {
   background-color: #ffe8a1;
