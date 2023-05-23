@@ -59,14 +59,14 @@ ul, ol {
 }
 
 .nav li a {
-  background-color: #FF6600;
+  background-color: #5a6abf;
   color: black;
   text-decoration: none;
-padding: 20px 15px;
+padding: 5px 15px;
 display: block;
 }
 .nav li a:hover {
-background-color: white;
+background-color: #9d9d9c;
 }
 .nav > li {
   float: left;
@@ -1292,8 +1292,8 @@ pre code {
     max-width: 16.66667%;
   }
   .col-lg-3 {
-    flex: 0 0 25%;
-    max-width: 25%;
+    flex: 0 0 30%;
+    max-width: 100%;
   }
   .col-lg-4 {
     flex: 0 0 33.33333%;
@@ -1756,7 +1756,7 @@ left: 300px;
 .menu {
   width: 140px;
   padding: 4px;
-  border: 6px orange solid;
+  border: black solid;
 }
 .table-hover .table-warning:hover > td,
 .table-hover .table-warning:hover > th {
@@ -9611,8 +9611,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: var(--orange-apple);
+  color: #18316b;
   /*color: #FF6600 ;*/
+}
+.titulo {
+  color: #717171 ;
 }
 
 a.text-primary:hover, a.text-primary:focus {
